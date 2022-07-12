@@ -78,9 +78,9 @@ span{
 }
 #first{
     padding: 19px 48px;
-margin: -6px 25px;
+margin: -3px 25px;
     
-    border-radius: 25px;
+    border-radius: 125px;
     background-color: rgba(247, 101, 48, 0.73);
     color: white;
     box-shadow: 5px;
